@@ -70,7 +70,6 @@
         "installer-types": [
             "bower-asset",
             "npm-asset"
-        ],
-        "enable-patching": true
+        ]
     }
 }

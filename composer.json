@@ -29,8 +29,7 @@
     },
     "require-dev": {
         "drupal/core-dev": "~9.3.0",
-        "getdkan/mock-chain": "^1.3.0",
-        "weitzman/drupal-test-traits": "^1.5"
+        "getdkan/mock-chain": "^1.3.0"
     },
     "conflict": {
         "drupal/drupal": "*"
